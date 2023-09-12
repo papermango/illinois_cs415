@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Projects/illinois_cs415/MP1/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"D:/Projects/illinois_cs415/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"D:/Projects/illinois_cs415/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"D:/Projects/illinois_cs415/MP1/Content/InfiniteMatrix/Maps/TutorialMap.umap",
 				"D:/Projects/CS 415/MP1/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
 				"D:/Projects/CS 415/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
 				"D:/Projects/CS 415/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
