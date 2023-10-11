@@ -1,5 +1,5 @@
 # UnrealLearningKit files
-./MP2/UnrealLearningKit/*
+./MP2/UnrealLearningKit/**
 
 # Visual Studio 2015 user specific files
 .vs/
